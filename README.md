@@ -1,5 +1,5 @@
 # Cleaner
-**Authors: Vinícius Vaz and [Nathan Marcelino](https://github.com/nathan-vm)**
+**Authors: Nathan Marcelino and [Vinícius Vaz](https://github.com/vinicvaz)**
 
 
 ## Description
